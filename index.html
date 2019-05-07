@@ -36,7 +36,7 @@
 	<script type="text/javascript" defer="defer">
 		$(function () {
 			d3.json("https://SafetyNetHospitalAllianceOfFlorida.github.io/federal/data/kff/insurance/KFF_Insurance_Coverage.json", function(data) {
-				currentData = "United States";
+				currentData = "Florida";
 				var modData = [];
 				data[currentData].forEach(function(d) {
 					modData.push(d);
