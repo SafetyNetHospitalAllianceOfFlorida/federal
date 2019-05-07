@@ -39,7 +39,7 @@
 				currentData = "United States";
 				var modData = [];
 				data[currentData].forEach(function(d) {
-					modData.unshift(d);
+					modData.push(d);
 				});
 				var chart = c3.generate({
 					bindto: d3.select('#timeseries'),
