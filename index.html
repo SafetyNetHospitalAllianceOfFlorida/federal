@@ -26,12 +26,59 @@
   <link href="//cdnjs.cloudflare.com/ajax/libs/c3/0.4.14/c3.css" rel="stylesheet" type="text/css">
   <link href="//cdnjs.cloudflare.com/ajax/libs/c3/0.4.14/c3.min.css" rel="stylesheet" type="text/css">
   <title>Document</title>
-  
+
 </head>
 
 <body>
 
-<p>Hello World</p>
+	<div style="width: 100%; height: 65vh;"><div id='timeseries'></div></div>
+
+	<script type="text/javascript" defer="defer">
+		$(function () {
+			d3.json("/data/kff/insurance/KFF_Insurance_Coverage.json", function(data) {
+				currentData = "United States";
+				var modData = [];
+				data[currentData].forEach(function(d) {
+					modData.unshift(d);
+				});
+				var chart = c3.generate({
+					bindto: d3.select(#timeseries),
+					data: {
+						json:modData,
+						keys: {
+							x: 'Year',
+							value: ["Employer", "Non-Group", "Medicaid", "Medicare", "Other Public", "Uninsured"]
+						},
+						type: 'line'
+					},
+					axis: {
+						x: {
+							type: 'category',
+							tick: {
+								multiline: false
+							}
+						},
+						y: {
+							tick: {
+								format: function (yvalue) { return d3.format(",")(yvalue); }
+							}
+						}
+					},
+					tooltip: {
+						format: {
+							title: function (d) { return modData[d]['Year'] + " Total: " + d3.format(",")(modData[d]['Total']); }
+						}
+					},
+					title: {
+						text: currentData + 'Insurance Coverage 2014-2017'
+					},
+					zoom: {
+						enabled: true
+					}
+				});
+			});
+		});
+	</script>
 
 </body>
 </html>
