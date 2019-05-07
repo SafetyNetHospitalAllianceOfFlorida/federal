@@ -1,0 +1,2228 @@
+{
+   "United States": [
+      {
+         "Year": 2014,
+         "Employer": 150832100,
+         "Non-Group": 19607200,
+         "Medicaid": 59321400,
+         "Medicare": 39364700,
+         "Other Public": 4744700,
+         "Uninsured": 36342200,
+         "Total": 310212200
+      },
+      {
+         "Year": 2015,
+         "Employer": 152351600,
+         "Non-Group": 21836100,
+         "Medicaid": 63865500,
+         "Medicare": 40558200,
+         "Other Public": 4673500,
+         "Uninsured": 29493100,
+         "Total": 312777900
+      },
+      {
+         "Year": 2016,
+         "Employer": 153701600,
+         "Non-Group": 21924600,
+         "Medicaid": 65517800,
+         "Medicare": 41628500,
+         "Other Public": 4646700,
+         "Uninsured": 27047100,
+         "Total": 314466400
+      },
+      {
+         "Year": 2017,
+         "Employer": 156199800,
+         "Non-Group": 20525500,
+         "Medicaid": 65152400,
+         "Medicare": 42802800,
+         "Other Public": 4588200,
+         "Uninsured": 27753700,
+         "Total": 317022500
+      }
+   ],
+   "Alabama": [
+      {
+         "Year": 2014,
+         "Employer": 2191400,
+         "Non-Group": 268700,
+         "Medicaid": 915500,
+         "Medicare": 683100,
+         "Other Public": 90700,
+         "Uninsured": 564800,
+         "Total": 4714100
+      },
+      {
+         "Year": 2015,
+         "Employer": 2205700,
+         "Non-Group": 289700,
+         "Medicaid": 948700,
+         "Medicare": 708200,
+         "Other Public": 97500,
+         "Uninsured": 480300,
+         "Total": 4730100
+      },
+      {
+         "Year": 2016,
+         "Employer": 2216700,
+         "Non-Group": 318500,
+         "Medicaid": 952800,
+         "Medicare": 712600,
+         "Other Public": 94400,
+         "Uninsured": 435200,
+         "Total": 4730100
+      },
+      {
+         "Year": 2017,
+         "Employer": 2179900,
+         "Non-Group": 292200,
+         "Medicaid": 977900,
+         "Medicare": 745800,
+         "Other Public": 93100,
+         "Uninsured": 452600,
+         "Total": 4741400
+      }
+   ],
+   "Alaska": [
+      {
+         "Year": 2014,
+         "Employer": 337300,
+         "Non-Group": 32600,
+         "Medicaid": 115400,
+         "Medicare": 49100,
+         "Other Public": 48500,
+         "Uninsured": 123700,
+         "Total": 706600
+      },
+      {
+         "Year": 2015,
+         "Employer": 337000,
+         "Non-Group": 35100,
+         "Medicaid": 140000,
+         "Medicare": 53000,
+         "Other Public": 39800,
+         "Uninsured": 102800,
+         "Total": 707500
+      },
+      {
+         "Year": 2016,
+         "Employer": 336100,
+         "Non-Group": 32200,
+         "Medicaid": 137900,
+         "Medicare": 57300,
+         "Other Public": 47900,
+         "Uninsured": 103500,
+         "Total": 714900
+      },
+      {
+         "Year": 2017,
+         "Employer": 320700,
+         "Non-Group": 22900,
+         "Medicaid": 156400,
+         "Medicare": 63100,
+         "Other Public": 48200,
+         "Uninsured": 98700,
+         "Total": 710100
+      }
+   ],
+   "Arizona": [
+      {
+         "Year": 2014,
+         "Employer": 2834500,
+         "Non-Group": 415100,
+         "Medicaid": 1341800,
+         "Medicare": 950500,
+         "Other Public": 117300,
+         "Uninsured": 896900,
+         "Total": 6556200
+      },
+      {
+         "Year": 2015,
+         "Employer": 2884400,
+         "Non-Group": 468200,
+         "Medicaid": 1463900,
+         "Medicare": 989800,
+         "Other Public": 112200,
+         "Uninsured": 736600,
+         "Total": 6655100
+      },
+      {
+         "Year": 2016,
+         "Employer": 2928500,
+         "Non-Group": 447700,
+         "Medicaid": 1585800,
+         "Medicare": 1018400,
+         "Other Public": 105700,
+         "Uninsured": 674800,
+         "Total": 6760900
+      },
+      {
+         "Year": 2017,
+         "Employer": 3075100,
+         "Non-Group": 396400,
+         "Medicaid": 1526400,
+         "Medicare": 1046800,
+         "Other Public": 110100,
+         "Uninsured": 686400,
+         "Total": 6841300
+      }
+   ],
+   "Arkansas": [
+      {
+         "Year": 2014,
+         "Employer": 1209000,
+         "Non-Group": 168800,
+         "Medicaid": 688500,
+         "Medicare": 424900,
+         "Other Public": 49500,
+         "Uninsured": 339200,
+         "Total": 2880000
+      },
+      {
+         "Year": 2015,
+         "Employer": 1194200,
+         "Non-Group": 203100,
+         "Medicaid": 738400,
+         "Medicare": 429000,
+         "Other Public": 46100,
+         "Uninsured": 271500,
+         "Total": 2882300
+      },
+      {
+         "Year": 2016,
+         "Employer": 1215700,
+         "Non-Group": 195800,
+         "Medicaid": 771800,
+         "Medicare": 434900,
+         "Other Public": 44900,
+         "Uninsured": 232200,
+         "Total": 2895400
+      },
+      {
+         "Year": 2017,
+         "Employer": 1208600,
+         "Non-Group": 183200,
+         "Medicaid": 784600,
+         "Medicare": 450700,
+         "Other Public": 49700,
+         "Uninsured": 233100,
+         "Total": 2910000
+      }
+   ],
+   "California": [
+      {
+         "Year": 2014,
+         "Employer": 17435800,
+         "Non-Group": 2783400,
+         "Medicaid": 8786300,
+         "Medicare": 3832500,
+         "Other Public": 400200,
+         "Uninsured": 4743300,
+         "Total": 37981600
+      },
+      {
+         "Year": 2015,
+         "Employer": 17555200,
+         "Non-Group": 2946300,
+         "Medicaid": 10173800,
+         "Medicare": 3967700,
+         "Other Public": 406100,
+         "Uninsured": 3276000,
+         "Total": 38325100
+      },
+      {
+         "Year": 2016,
+         "Employer": 17805300,
+         "Non-Group": 2873100,
+         "Medicaid": 10466200,
+         "Medicare": 4060100,
+         "Other Public": 396600,
+         "Uninsured": 2841000,
+         "Total": 38442400
+      },
+      {
+         "Year": 2017,
+         "Employer": 18253400,
+         "Non-Group": 2876500,
+         "Medicaid": 10238500,
+         "Medicare": 4181900,
+         "Other Public": 363900,
+         "Uninsured": 2799600,
+         "Total": 38713900
+      }
+   ],
+   "Colorado": [
+      {
+         "Year": 2014,
+         "Employer": 2621200,
+         "Non-Group": 430000,
+         "Medicaid": 888300,
+         "Medicare": 589200,
+         "Other Public": 136700,
+         "Uninsured": 551600,
+         "Total": 5217000
+      },
+      {
+         "Year": 2015,
+         "Employer": 2657000,
+         "Non-Group": 452500,
+         "Medicaid": 1021200,
+         "Medicare": 621800,
+         "Other Public": 132800,
+         "Uninsured": 430000,
+         "Total": 5315400
+      },
+      {
+         "Year": 2016,
+         "Employer": 2727500,
+         "Non-Group": 437800,
+         "Medicaid": 1045500,
+         "Medicare": 647800,
+         "Other Public": 125900,
+         "Uninsured": 413700,
+         "Total": 5398100
+      },
+      {
+         "Year": 2017,
+         "Employer": 2771900,
+         "Non-Group": 409600,
+         "Medicaid": 1073700,
+         "Medicare": 664600,
+         "Other Public": 131500,
+         "Uninsured": 409800,
+         "Total": 5461100
+      }
+   ],
+   "Connecticut": [
+      {
+         "Year": 2014,
+         "Employer": 1880500,
+         "Non-Group": 206600,
+         "Medicaid": 673600,
+         "Medicare": 447300,
+         "Other Public": 27500,
+         "Uninsured": 244900,
+         "Total": 3480400
+      },
+      {
+         "Year": 2015,
+         "Employer": 1884200,
+         "Non-Group": 227200,
+         "Medicaid": 683000,
+         "Medicare": 449400,
+         "Other Public": 23300,
+         "Uninsured": 210900,
+         "Total": 3478100
+      },
+      {
+         "Year": 2016,
+         "Employer": 1893600,
+         "Non-Group": 215700,
+         "Medicaid": 700500,
+         "Medicare": 460200,
+         "Other Public": 25200,
+         "Uninsured": 170000,
+         "Total": 3465100
+      },
+      {
+         "Year": 2017,
+         "Employer": 1871900,
+         "Non-Group": 206500,
+         "Medicaid": 706200,
+         "Medicare": 474000,
+         "Other Public": 23600,
+         "Uninsured": 196500,
+         "Total": 3478700
+      }
+   ],
+   "Delaware": [
+      {
+         "Year": 2014,
+         "Employer": 483100,
+         "Non-Group": 34000,
+         "Medicaid": 166600,
+         "Medicare": 138800,
+         "Other Public": 15600,
+         "Uninsured": 67100,
+         "Total": 905300
+      },
+      {
+         "Year": 2015,
+         "Employer": 473900,
+         "Non-Group": 48200,
+         "Medicaid": 188000,
+         "Medicare": 143000,
+         "Other Public": 13700,
+         "Uninsured": 51500,
+         "Total": 918300
+      },
+      {
+         "Year": 2016,
+         "Employer": 484800,
+         "Non-Group": 52500,
+         "Medicaid": 178900,
+         "Medicare": 143300,
+         "Other Public": 11300,
+         "Uninsured": 53500,
+         "Total": 924300
+      },
+      {
+         "Year": 2017,
+         "Employer": 494500,
+         "Non-Group": 48500,
+         "Medicaid": 166900,
+         "Medicare": 155600,
+         "Other Public": 14300,
+         "Uninsured": 52000,
+         "Total": 931700
+      }
+   ],
+   "District of Columbia": [
+      {
+         "Year": 2014,
+         "Employer": 319000,
+         "Non-Group": 38900,
+         "Medicaid": 180100,
+         "Medicare": 45000,
+         "Other Public": 6000,
+         "Uninsured": 34500,
+         "Total": 623500
+      },
+      {
+         "Year": 2015,
+         "Employer": 344300,
+         "Non-Group": 43700,
+         "Medicaid": 168000,
+         "Medicare": 49400,
+         "Other Public": 5700,
+         "Uninsured": 23600,
+         "Total": 634800
+      },
+      {
+         "Year": 2016,
+         "Employer": 335300,
+         "Non-Group": 43300,
+         "Medicaid": 183900,
+         "Medicare": 48100,
+         "Other Public": 7900,
+         "Uninsured": 26000,
+         "Total": 644400
+      },
+      {
+         "Year": 2017,
+         "Employer": 349700,
+         "Non-Group": 40500,
+         "Medicaid": 184500,
+         "Medicare": 51100,
+         "Other Public": 7900,
+         "Uninsured": 23900,
+         "Total": 657600
+      }
+   ],
+   "Florida": [
+      {
+         "Year": 2014,
+         "Employer": 7468400,
+         "Non-Group": 1595300,
+         "Medicaid": 3528800,
+         "Medicare": 3227600,
+         "Other Public": 390900,
+         "Uninsured": 3220100,
+         "Total": 19431100
+      },
+      {
+         "Year": 2015,
+         "Employer": 7664500,
+         "Non-Group": 2026100,
+         "Medicaid": 3724900,
+         "Medicare": 3335600,
+         "Other Public": 407900,
+         "Uninsured": 2653500,
+         "Total": 19812500
+      },
+      {
+         "Year": 2016,
+         "Employer": 7911800,
+         "Non-Group": 2031100,
+         "Medicaid": 3825400,
+         "Medicare": 3461200,
+         "Other Public": 390500,
+         "Uninsured": 2524000,
+         "Total": 20144000
+      },
+      {
+         "Year": 2017,
+         "Employer": 8155800,
+         "Non-Group": 1985000,
+         "Medicaid": 3819300,
+         "Medicare": 3536400,
+         "Other Public": 382300,
+         "Uninsured": 2653500,
+         "Total": 20532300
+      }
+   ],
+   "Georgia": [
+      {
+         "Year": 2014,
+         "Employer": 4573100,
+         "Non-Group": 579600,
+         "Medicaid": 1766800,
+         "Medicare": 1090000,
+         "Other Public": 235400,
+         "Uninsured": 1547900,
+         "Total": 9792900
+      },
+      {
+         "Year": 2015,
+         "Employer": 4694200,
+         "Non-Group": 707200,
+         "Medicaid": 1768000,
+         "Medicare": 1127000,
+         "Other Public": 237500,
+         "Uninsured": 1375700,
+         "Total": 9909700
+      },
+      {
+         "Year": 2016,
+         "Employer": 4750700,
+         "Non-Group": 742500,
+         "Medicaid": 1793400,
+         "Medicare": 1177600,
+         "Other Public": 244400,
+         "Uninsured": 1292300,
+         "Total": 10001000
+      },
+      {
+         "Year": 2017,
+         "Employer": 4922000,
+         "Non-Group": 657700,
+         "Medicaid": 1759600,
+         "Medicare": 1194700,
+         "Other Public": 233200,
+         "Uninsured": 1354200,
+         "Total": 10121400
+      }
+   ],
+   "Hawaii": [
+      {
+         "Year": 2014,
+         "Employer": 737800,
+         "Non-Group": 56600,
+         "Medicaid": 228600,
+         "Medicare": 185100,
+         "Other Public": 73700,
+         "Uninsured": 66400,
+         "Total": 1348100
+      },
+      {
+         "Year": 2015,
+         "Employer": 742300,
+         "Non-Group": 70100,
+         "Medicaid": 244100,
+         "Medicare": 182200,
+         "Other Public": 71900,
+         "Uninsured": 52100,
+         "Total": 1362600
+      },
+      {
+         "Year": 2016,
+         "Employer": 756200,
+         "Non-Group": 62200,
+         "Medicaid": 239700,
+         "Medicare": 189800,
+         "Other Public": 69300,
+         "Uninsured": 47400,
+         "Total": 1364600
+      },
+      {
+         "Year": 2017,
+         "Employer": 734100,
+         "Non-Group": 65300,
+         "Medicaid": 237700,
+         "Medicare": 199400,
+         "Other Public": 68300,
+         "Uninsured": 51300,
+         "Total": 1356100
+      }
+   ],
+   "Idaho": [
+      {
+         "Year": 2014,
+         "Employer": 743100,
+         "Non-Group": 158100,
+         "Medicaid": 242700,
+         "Medicare": 214200,
+         "Other Public": 26000,
+         "Uninsured": 214800,
+         "Total": 1598800
+      },
+      {
+         "Year": 2015,
+         "Employer": 742700,
+         "Non-Group": 178800,
+         "Medicaid": 274400,
+         "Medicare": 217200,
+         "Other Public": 22000,
+         "Uninsured": 182200,
+         "Total": 1617200
+      },
+      {
+         "Year": 2016,
+         "Employer": 778600,
+         "Non-Group": 171000,
+         "Medicaid": 277300,
+         "Medicare": 228500,
+         "Other Public": 25100,
+         "Uninsured": 170200,
+         "Total": 1650700
+      },
+      {
+         "Year": 2017,
+         "Employer": 782500,
+         "Non-Group": 160300,
+         "Medicaid": 293600,
+         "Medicare": 235300,
+         "Other Public": 29900,
+         "Uninsured": 180500,
+         "Total": 1682100
+      }
+   ],
+   "Illinois": [
+      {
+         "Year": 2014,
+         "Employer": 6564000,
+         "Non-Group": 770300,
+         "Medicaid": 2377400,
+         "Medicare": 1527000,
+         "Other Public": 91100,
+         "Uninsured": 1239600,
+         "Total": 12569400
+      },
+      {
+         "Year": 2015,
+         "Employer": 6610300,
+         "Non-Group": 847800,
+         "Medicaid": 2542500,
+         "Medicare": 1571800,
+         "Other Public": 87900,
+         "Uninsured": 889400,
+         "Total": 12549700
+      },
+      {
+         "Year": 2016,
+         "Employer": 6634000,
+         "Non-Group": 833700,
+         "Medicaid": 2537500,
+         "Medicare": 1592000,
+         "Other Public": 79700,
+         "Uninsured": 814300,
+         "Total": 12491200
+      },
+      {
+         "Year": 2017,
+         "Employer": 6675200,
+         "Non-Group": 751400,
+         "Medicaid": 2500200,
+         "Medicare": 1636700,
+         "Other Public": 76700,
+         "Uninsured": 856400,
+         "Total": 12496600
+      }
+   ],
+   "Indiana": [
+      {
+         "Year": 2014,
+         "Employer": 3359100,
+         "Non-Group": 317800,
+         "Medicaid": 1012600,
+         "Medicare": 873000,
+         "Other Public": 54900,
+         "Uninsured": 769300,
+         "Total": 6386700
+      },
+      {
+         "Year": 2015,
+         "Employer": 3376300,
+         "Non-Group": 360100,
+         "Medicaid": 1085000,
+         "Medicare": 901000,
+         "Other Public": 59400,
+         "Uninsured": 633300,
+         "Total": 6415100
+      },
+      {
+         "Year": 2016,
+         "Employer": 3430900,
+         "Non-Group": 371000,
+         "Medicaid": 1150600,
+         "Medicare": 905400,
+         "Other Public": 54500,
+         "Uninsured": 518900,
+         "Total": 6431400
+      },
+      {
+         "Year": 2017,
+         "Employer": 3419700,
+         "Non-Group": 349500,
+         "Medicaid": 1170500,
+         "Medicare": 918000,
+         "Other Public": 57800,
+         "Uninsured": 543900,
+         "Total": 6459400
+      }
+   ],
+   "Iowa": [
+      {
+         "Year": 2014,
+         "Employer": 1616100,
+         "Non-Group": 237100,
+         "Medicaid": 530000,
+         "Medicare": 422500,
+         "Other Public": 23800,
+         "Uninsured": 172500,
+         "Total": 3002100
+      },
+      {
+         "Year": 2015,
+         "Employer": 1637000,
+         "Non-Group": 229300,
+         "Medicaid": 548500,
+         "Medicare": 432200,
+         "Other Public": 26000,
+         "Uninsured": 146800,
+         "Total": 3019800
+      },
+      {
+         "Year": 2016,
+         "Employer": 1646700,
+         "Non-Group": 207600,
+         "Medicaid": 592700,
+         "Medicare": 436600,
+         "Other Public": 24400,
+         "Uninsured": 122400,
+         "Total": 3030400
+      },
+      {
+         "Year": 2017,
+         "Employer": 1684000,
+         "Non-Group": 203900,
+         "Medicaid": 548500,
+         "Medicare": 450500,
+         "Other Public": 25600,
+         "Uninsured": 133200,
+         "Total": 3045600
+      }
+   ],
+   "Kansas": [
+      {
+         "Year": 2014,
+         "Employer": 1476700,
+         "Non-Group": 203600,
+         "Medicaid": 405000,
+         "Medicare": 362800,
+         "Other Public": 63300,
+         "Uninsured": 299300,
+         "Total": 2810700
+      },
+      {
+         "Year": 2015,
+         "Employer": 1525400,
+         "Non-Group": 219000,
+         "Medicaid": 377200,
+         "Medicare": 370900,
+         "Other Public": 63000,
+         "Uninsured": 261200,
+         "Total": 2816600
+      },
+      {
+         "Year": 2016,
+         "Employer": 1510100,
+         "Non-Group": 234900,
+         "Medicaid": 391300,
+         "Medicare": 378100,
+         "Other Public": 65800,
+         "Uninsured": 236700,
+         "Total": 2817000
+      },
+      {
+         "Year": 2017,
+         "Employer": 1539300,
+         "Non-Group": 195500,
+         "Medicaid": 380700,
+         "Medicare": 391800,
+         "Other Public": 70400,
+         "Uninsured": 240000,
+         "Total": 2817600
+      }
+   ],
+   "Kentucky": [
+      {
+         "Year": 2014,
+         "Employer": 2011800,
+         "Non-Group": 219000,
+         "Medicaid": 998800,
+         "Medicare": 601200,
+         "Other Public": 64300,
+         "Uninsured": 373700,
+         "Total": 4268800
+      },
+      {
+         "Year": 2015,
+         "Employer": 2000400,
+         "Non-Group": 220200,
+         "Medicaid": 1105200,
+         "Medicare": 624100,
+         "Other Public": 72300,
+         "Uninsured": 261100,
+         "Total": 4283400
+      },
+      {
+         "Year": 2016,
+         "Employer": 1982800,
+         "Non-Group": 225000,
+         "Medicaid": 1144900,
+         "Medicare": 641600,
+         "Other Public": 72500,
+         "Uninsured": 220800,
+         "Total": 4287700
+      },
+      {
+         "Year": 2017,
+         "Employer": 1999600,
+         "Non-Group": 195500,
+         "Medicaid": 1167800,
+         "Medicare": 648200,
+         "Other Public": 61000,
+         "Uninsured": 234900,
+         "Total": 4307100
+      }
+   ],
+   "Louisiana": [
+      {
+         "Year": 2014,
+         "Employer": 2023500,
+         "Non-Group": 260300,
+         "Medicaid": 969800,
+         "Medicare": 530200,
+         "Other Public": 70000,
+         "Uninsured": 654700,
+         "Total": 4508500
+      },
+      {
+         "Year": 2015,
+         "Employer": 2030900,
+         "Non-Group": 293100,
+         "Medicaid": 1026900,
+         "Medicare": 551900,
+         "Other Public": 80600,
+         "Uninsured": 546800,
+         "Total": 4530300
+      },
+      {
+         "Year": 2016,
+         "Employer": 1959600,
+         "Non-Group": 320100,
+         "Medicaid": 1146200,
+         "Medicare": 576000,
+         "Other Public": 67400,
+         "Uninsured": 461100,
+         "Total": 4530500
+      },
+      {
+         "Year": 2017,
+         "Employer": 1974300,
+         "Non-Group": 262300,
+         "Medicaid": 1283700,
+         "Medicare": 576300,
+         "Other Public": 68000,
+         "Uninsured": 377000,
+         "Total": 4541500
+      }
+   ],
+   "Maine": [
+      {
+         "Year": 2014,
+         "Employer": 603100,
+         "Non-Group": 68200,
+         "Medicaid": 281500,
+         "Medicare": 196600,
+         "Other Public": 17200,
+         "Uninsured": 127200,
+         "Total": 1293800
+      },
+      {
+         "Year": 2015,
+         "Employer": 603900,
+         "Non-Group": 93700,
+         "Medicaid": 258600,
+         "Medicare": 204700,
+         "Other Public": 21000,
+         "Uninsured": 110600,
+         "Total": 1292600
+      },
+      {
+         "Year": 2016,
+         "Employer": 620000,
+         "Non-Group": 94100,
+         "Medicaid": 250500,
+         "Medicare": 207000,
+         "Other Public": 20100,
+         "Uninsured": 102000,
+         "Total": 1293800
+      },
+      {
+         "Year": 2017,
+         "Employer": 639100,
+         "Non-Group": 84100,
+         "Medicaid": 235800,
+         "Medicare": 216800,
+         "Other Public": 22400,
+         "Uninsured": 101800,
+         "Total": 1300200
+      }
+   ],
+   "Maryland": [
+      {
+         "Year": 2014,
+         "Employer": 3237700,
+         "Non-Group": 322700,
+         "Medicaid": 1010700,
+         "Medicare": 672900,
+         "Other Public": 116000,
+         "Uninsured": 459300,
+         "Total": 5819300
+      },
+      {
+         "Year": 2015,
+         "Employer": 3263700,
+         "Non-Group": 365200,
+         "Medicaid": 1027100,
+         "Medicare": 686800,
+         "Other Public": 105800,
+         "Uninsured": 389700,
+         "Total": 5838300
+      },
+      {
+         "Year": 2016,
+         "Employer": 3263400,
+         "Non-Group": 368500,
+         "Medicaid": 1040400,
+         "Medicare": 714800,
+         "Other Public": 111600,
+         "Uninsured": 357700,
+         "Total": 5856500
+      },
+      {
+         "Year": 2017,
+         "Employer": 3310300,
+         "Non-Group": 329400,
+         "Medicaid": 1049900,
+         "Medicare": 732800,
+         "Other Public": 108100,
+         "Uninsured": 362400,
+         "Total": 5892900
+      }
+   ],
+   "Massachusetts": [
+      {
+         "Year": 2014,
+         "Employer": 3698000,
+         "Non-Group": 300200,
+         "Medicaid": 1491600,
+         "Medicare": 762600,
+         "Other Public": 33000,
+         "Uninsured": 221300,
+         "Total": 6506500
+      },
+      {
+         "Year": 2015,
+         "Employer": 3662800,
+         "Non-Group": 329500,
+         "Medicaid": 1559300,
+         "Medicare": 788600,
+         "Other Public": 30500,
+         "Uninsured": 185000,
+         "Total": 6555600
+      },
+      {
+         "Year": 2016,
+         "Employer": 3652400,
+         "Non-Group": 348500,
+         "Medicaid": 1573400,
+         "Medicare": 795900,
+         "Other Public": 36500,
+         "Uninsured": 163900,
+         "Total": 6570600
+      },
+      {
+         "Year": 2017,
+         "Employer": 3655700,
+         "Non-Group": 357000,
+         "Medicaid": 1564500,
+         "Medicare": 826900,
+         "Other Public": 34200,
+         "Uninsured": 182400,
+         "Total": 6620600
+      }
+   ],
+   "Michigan": [
+      {
+         "Year": 2014,
+         "Employer": 4880800,
+         "Non-Group": 548900,
+         "Medicaid": 1983100,
+         "Medicare": 1380200,
+         "Other Public": 73600,
+         "Uninsured": 816300,
+         "Total": 9682700
+      },
+      {
+         "Year": 2015,
+         "Employer": 4880000,
+         "Non-Group": 553800,
+         "Medicaid": 2201400,
+         "Medicare": 1409700,
+         "Other Public": 64500,
+         "Uninsured": 584400,
+         "Total": 9693800
+      },
+      {
+         "Year": 2016,
+         "Employer": 4916700,
+         "Non-Group": 575300,
+         "Medicaid": 2193200,
+         "Medicare": 1433600,
+         "Other Public": 58100,
+         "Uninsured": 516600,
+         "Total": 9693500
+      },
+      {
+         "Year": 2017,
+         "Employer": 4994900,
+         "Non-Group": 524800,
+         "Medicaid": 2181600,
+         "Medicare": 1464900,
+         "Other Public": 55400,
+         "Uninsured": 498700,
+         "Total": 9720300
+      }
+   ],
+   "Minnesota": [
+      {
+         "Year": 2014,
+         "Employer": 3022500,
+         "Non-Group": 393000,
+         "Medicaid": 869100,
+         "Medicare": 685600,
+         "Other Public": 42500,
+         "Uninsured": 317600,
+         "Total": 5330400
+      },
+      {
+         "Year": 2015,
+         "Employer": 3023200,
+         "Non-Group": 392200,
+         "Medicaid": 968900,
+         "Medicare": 702000,
+         "Other Public": 38600,
+         "Uninsured": 240600,
+         "Total": 5365600
+      },
+      {
+         "Year": 2016,
+         "Employer": 3030100,
+         "Non-Group": 392500,
+         "Medicaid": 967700,
+         "Medicare": 738700,
+         "Other Public": 36600,
+         "Uninsured": 227400,
+         "Total": 5392900
+      },
+      {
+         "Year": 2017,
+         "Employer": 3132200,
+         "Non-Group": 315200,
+         "Medicaid": 943900,
+         "Medicare": 771900,
+         "Other Public": 40100,
+         "Uninsured": 243300,
+         "Total": 5446600
+      }
+   ],
+   "Mississippi": [
+      {
+         "Year": 2014,
+         "Employer": 1180800,
+         "Non-Group": 163100,
+         "Medicaid": 708700,
+         "Medicare": 360500,
+         "Other Public": 56100,
+         "Uninsured": 417600,
+         "Total": 2886800
+      },
+      {
+         "Year": 2015,
+         "Employer": 1171600,
+         "Non-Group": 181900,
+         "Medicaid": 744400,
+         "Medicare": 372600,
+         "Other Public": 57500,
+         "Uninsured": 361300,
+         "Total": 2889300
+      },
+      {
+         "Year": 2016,
+         "Employer": 1218300,
+         "Non-Group": 173400,
+         "Medicaid": 714600,
+         "Medicare": 385500,
+         "Other Public": 56300,
+         "Uninsured": 339300,
+         "Total": 2887300
+      },
+      {
+         "Year": 2017,
+         "Employer": 1211100,
+         "Non-Group": 172900,
+         "Medicaid": 705000,
+         "Medicare": 386700,
+         "Other Public": 60300,
+         "Uninsured": 348500,
+         "Total": 2884500
+      }
+   ],
+   "Missouri": [
+      {
+         "Year": 2014,
+         "Employer": 2979600,
+         "Non-Group": 411500,
+         "Medicaid": 833200,
+         "Medicare": 869000,
+         "Other Public": 96900,
+         "Uninsured": 680100,
+         "Total": 5870200
+      },
+      {
+         "Year": 2015,
+         "Employer": 3017800,
+         "Non-Group": 442300,
+         "Medicaid": 874500,
+         "Medicare": 881500,
+         "Other Public": 100400,
+         "Uninsured": 574400,
+         "Total": 5890900
+      },
+      {
+         "Year": 2016,
+         "Employer": 3050900,
+         "Non-Group": 461300,
+         "Medicaid": 858700,
+         "Medicare": 910000,
+         "Other Public": 88000,
+         "Uninsured": 529100,
+         "Total": 5898000
+      },
+      {
+         "Year": 2017,
+         "Employer": 3052200,
+         "Non-Group": 414500,
+         "Medicaid": 880900,
+         "Medicare": 948600,
+         "Other Public": 88600,
+         "Uninsured": 536500,
+         "Total": 5921300
+      }
+   ],
+   "Montana": [
+      {
+         "Year": 2014,
+         "Employer": 438200,
+         "Non-Group": 96000,
+         "Medicaid": 150900,
+         "Medicare": 153800,
+         "Other Public": 18600,
+         "Uninsured": 136200,
+         "Total": 993700
+      },
+      {
+         "Year": 2015,
+         "Employer": 446200,
+         "Non-Group": 107700,
+         "Medicaid": 152600,
+         "Medicare": 163400,
+         "Other Public": 19700,
+         "Uninsured": 116300,
+         "Total": 1005900
+      },
+      {
+         "Year": 2016,
+         "Employer": 440500,
+         "Non-Group": 97200,
+         "Medicaid": 208400,
+         "Medicare": 160900,
+         "Other Public": 23200,
+         "Uninsured": 84900,
+         "Total": 1015100
+      },
+      {
+         "Year": 2017,
+         "Employer": 445800,
+         "Non-Group": 95800,
+         "Medicaid": 197700,
+         "Medicare": 167900,
+         "Other Public": 22300,
+         "Uninsured": 93100,
+         "Total": 1022600
+      }
+   ],
+   "Nebraska": [
+      {
+         "Year": 2014,
+         "Employer": 988000,
+         "Non-Group": 161200,
+         "Medicaid": 238600,
+         "Medicare": 226600,
+         "Other Public": 38800,
+         "Uninsured": 170500,
+         "Total": 1823700
+      },
+      {
+         "Year": 2015,
+         "Employer": 1017800,
+         "Non-Group": 164500,
+         "Medicaid": 237400,
+         "Medicare": 241200,
+         "Other Public": 33500,
+         "Uninsured": 144000,
+         "Total": 1838400
+      },
+      {
+         "Year": 2016,
+         "Employer": 1014900,
+         "Non-Group": 159300,
+         "Medicaid": 237000,
+         "Medicare": 238100,
+         "Other Public": 31900,
+         "Uninsured": 163800,
+         "Total": 1845000
+      },
+      {
+         "Year": 2017,
+         "Employer": 1033200,
+         "Non-Group": 147100,
+         "Medicaid": 231600,
+         "Medicare": 249100,
+         "Other Public": 37800,
+         "Uninsured": 160500,
+         "Total": 1859200
+      }
+   ],
+   "Nevada": [
+      {
+         "Year": 2014,
+         "Employer": 1356500,
+         "Non-Group": 152000,
+         "Medicaid": 457600,
+         "Medicare": 347600,
+         "Other Public": 52600,
+         "Uninsured": 429000,
+         "Total": 2795200
+      },
+      {
+         "Year": 2015,
+         "Employer": 1351800,
+         "Non-Group": 188500,
+         "Medicaid": 528200,
+         "Medicare": 375600,
+         "Other Public": 48800,
+         "Uninsured": 349800,
+         "Total": 2842700
+      },
+      {
+         "Year": 2016,
+         "Employer": 1393700,
+         "Non-Group": 186500,
+         "Medicaid": 556500,
+         "Medicare": 380000,
+         "Other Public": 52700,
+         "Uninsured": 321000,
+         "Total": 2890400
+      },
+      {
+         "Year": 2017,
+         "Employer": 1451300,
+         "Non-Group": 157100,
+         "Medicaid": 558300,
+         "Medicare": 400700,
+         "Other Public": 53200,
+         "Uninsured": 325900,
+         "Total": 2946600
+      }
+   ],
+   "New Hampshire": [
+      {
+         "Year": 2014,
+         "Employer": 749800,
+         "Non-Group": 74900,
+         "Medicaid": 134700,
+         "Medicare": 190400,
+         "Other Public": 16100,
+         "Uninsured": 120600,
+         "Total": 1286500
+      },
+      {
+         "Year": 2015,
+         "Employer": 753000,
+         "Non-Group": 71500,
+         "Medicaid": 160600,
+         "Medicare": 198500,
+         "Other Public": 14700,
+         "Uninsured": 89200,
+         "Total": 1287600
+      },
+      {
+         "Year": 2016,
+         "Employer": 741700,
+         "Non-Group": 75500,
+         "Medicaid": 173900,
+         "Medicare": 205200,
+         "Other Public": 12900,
+         "Uninsured": 82100,
+         "Total": 1291300
+      },
+      {
+         "Year": 2017,
+         "Employer": 743200,
+         "Non-Group": 72100,
+         "Medicaid": 179300,
+         "Medicare": 217300,
+         "Other Public": 11700,
+         "Uninsured": 73400,
+         "Total": 1297000
+      }
+   ],
+   "New Jersey": [
+      {
+         "Year": 2014,
+         "Employer": 4887800,
+         "Non-Group": 441800,
+         "Medicaid": 1347600,
+         "Medicare": 1078400,
+         "Other Public": 38600,
+         "Uninsured": 961900,
+         "Total": 8756200
+      },
+      {
+         "Year": 2015,
+         "Employer": 4862000,
+         "Non-Group": 486300,
+         "Medicaid": 1523400,
+         "Medicare": 1090200,
+         "Other Public": 41000,
+         "Uninsured": 773400,
+         "Total": 8776300
+      },
+      {
+         "Year": 2016,
+         "Employer": 4901100,
+         "Non-Group": 501600,
+         "Medicaid": 1521800,
+         "Medicare": 1125100,
+         "Other Public": 37300,
+         "Uninsured": 675900,
+         "Total": 8762700
+      },
+      {
+         "Year": 2017,
+         "Employer": 4939800,
+         "Non-Group": 500100,
+         "Medicaid": 1511300,
+         "Medicare": 1152700,
+         "Other Public": 47100,
+         "Uninsured": 672900,
+         "Total": 8823900
+      }
+   ],
+   "New Mexico": [
+      {
+         "Year": 2014,
+         "Employer": 758100,
+         "Non-Group": 96100,
+         "Medicaid": 560000,
+         "Medicare": 276300,
+         "Other Public": 44200,
+         "Uninsured": 302000,
+         "Total": 2036700
+      },
+      {
+         "Year": 2015,
+         "Employer": 738400,
+         "Non-Group": 101000,
+         "Medicaid": 651500,
+         "Medicare": 281200,
+         "Other Public": 40900,
+         "Uninsured": 222200,
+         "Total": 2035300
+      },
+      {
+         "Year": 2016,
+         "Employer": 749000,
+         "Non-Group": 102200,
+         "Medicaid": 658500,
+         "Medicare": 286800,
+         "Other Public": 49900,
+         "Uninsured": 183000,
+         "Total": 2029400
+      },
+      {
+         "Year": 2017,
+         "Employer": 738800,
+         "Non-Group": 98400,
+         "Medicaid": 684400,
+         "Medicare": 287900,
+         "Other Public": 42500,
+         "Uninsured": 186100,
+         "Total": 2038200
+      }
+   ],
+   "New York": [
+      {
+         "Year": 2014,
+         "Employer": 9609300,
+         "Non-Group": 961600,
+         "Medicaid": 4654000,
+         "Medicare": 2226900,
+         "Other Public": 104100,
+         "Uninsured": 1660500,
+         "Total": 19216400
+      },
+      {
+         "Year": 2015,
+         "Employer": 9544600,
+         "Non-Group": 1045900,
+         "Medicaid": 4945200,
+         "Medicare": 2268700,
+         "Other Public": 96500,
+         "Uninsured": 1368400,
+         "Total": 19269200
+      },
+      {
+         "Year": 2016,
+         "Employer": 9451400,
+         "Non-Group": 1140400,
+         "Medicaid": 5075600,
+         "Medicare": 2286700,
+         "Other Public": 96900,
+         "Uninsured": 1170500,
+         "Total": 19221500
+      },
+      {
+         "Year": 2017,
+         "Employer": 9536300,
+         "Non-Group": 1139400,
+         "Medicaid": 5082100,
+         "Medicare": 2362000,
+         "Other Public": 87400,
+         "Uninsured": 1108600,
+         "Total": 19315700
+      }
+   ],
+   "North Carolina": [
+      {
+         "Year": 2014,
+         "Employer": 4285800,
+         "Non-Group": 718700,
+         "Medicaid": 1771600,
+         "Medicare": 1317500,
+         "Other Public": 267200,
+         "Uninsured": 1272200,
+         "Total": 9632900
+      },
+      {
+         "Year": 2015,
+         "Employer": 4365800,
+         "Non-Group": 839500,
+         "Medicaid": 1802000,
+         "Medicare": 1358000,
+         "Other Public": 266800,
+         "Uninsured": 1101600,
+         "Total": 9733700
+      },
+      {
+         "Year": 2016,
+         "Employer": 4471300,
+         "Non-Group": 804900,
+         "Medicaid": 1837100,
+         "Medicare": 1417500,
+         "Other Public": 269400,
+         "Uninsured": 1029700,
+         "Total": 9829900
+      },
+      {
+         "Year": 2017,
+         "Employer": 4611100,
+         "Non-Group": 713400,
+         "Medicaid": 1830400,
+         "Medicare": 1452500,
+         "Other Public": 272800,
+         "Uninsured": 1068600,
+         "Total": 9948800
+      }
+   ],
+   "North Dakota": [
+      {
+         "Year": 2014,
+         "Employer": 407500,
+         "Non-Group": 70100,
+         "Medicaid": 76800,
+         "Medicare": 88200,
+         "Other Public": 8300,
+         "Uninsured": 57500,
+         "Total": 708400
+      },
+      {
+         "Year": 2015,
+         "Employer": 404600,
+         "Non-Group": 72100,
+         "Medicaid": 77600,
+         "Medicare": 93900,
+         "Other Public": 18200,
+         "Uninsured": 60000,
+         "Total": 726400
+      },
+      {
+         "Year": 2016,
+         "Employer": 403300,
+         "Non-Group": 72100,
+         "Medicaid": 80500,
+         "Medicare": 94400,
+         "Other Public": 18600,
+         "Uninsured": 57000,
+         "Total": 725900
+      },
+      {
+         "Year": 2017,
+         "Employer": 421100,
+         "Non-Group": 66000,
+         "Medicaid": 77800,
+         "Medicare": 94900,
+         "Other Public": 11700,
+         "Uninsured": 54500,
+         "Total": 726000
+      }
+   ],
+   "Ohio": [
+      {
+         "Year": 2014,
+         "Employer": 5927900,
+         "Non-Group": 508600,
+         "Medicaid": 2152100,
+         "Medicare": 1630100,
+         "Other Public": 103000,
+         "Uninsured": 948600,
+         "Total": 11270300
+      },
+      {
+         "Year": 2015,
+         "Employer": 5898000,
+         "Non-Group": 552300,
+         "Medicaid": 2355000,
+         "Medicare": 1653000,
+         "Other Public": 101800,
+         "Uninsured": 733400,
+         "Total": 11293300
+      },
+      {
+         "Year": 2016,
+         "Employer": 5898400,
+         "Non-Group": 553700,
+         "Medicaid": 2401000,
+         "Medicare": 1698900,
+         "Other Public": 97400,
+         "Uninsured": 629400,
+         "Total": 11278700
+      },
+      {
+         "Year": 2017,
+         "Employer": 5897600,
+         "Non-Group": 547000,
+         "Medicaid": 2386700,
+         "Medicare": 1729700,
+         "Other Public": 101200,
+         "Uninsured": 661300,
+         "Total": 11323500
+      }
+   ],
+   "Oklahoma": [
+      {
+         "Year": 2014,
+         "Employer": 1700400,
+         "Non-Group": 237600,
+         "Medicaid": 648200,
+         "Medicare": 513300,
+         "Other Public": 79000,
+         "Uninsured": 571100,
+         "Total": 3749500
+      },
+      {
+         "Year": 2015,
+         "Employer": 1728800,
+         "Non-Group": 242600,
+         "Medicaid": 655500,
+         "Medicare": 539700,
+         "Other Public": 79900,
+         "Uninsured": 537200,
+         "Total": 3783700
+      },
+      {
+         "Year": 2016,
+         "Employer": 1711800,
+         "Non-Group": 251400,
+         "Medicaid": 690400,
+         "Medicare": 552700,
+         "Other Public": 70400,
+         "Uninsured": 524200,
+         "Total": 3800800
+      },
+      {
+         "Year": 2017,
+         "Employer": 1723800,
+         "Non-Group": 223100,
+         "Medicaid": 684100,
+         "Medicare": 560700,
+         "Other Public": 80100,
+         "Uninsured": 531900,
+         "Total": 3803700
+      }
+   ],
+   "Oregon": [
+      {
+         "Year": 2014,
+         "Employer": 1778900,
+         "Non-Group": 249000,
+         "Medicaid": 886200,
+         "Medicare": 555400,
+         "Other Public": 38200,
+         "Uninsured": 381800,
+         "Total": 3889600
+      },
+      {
+         "Year": 2015,
+         "Employer": 1807100,
+         "Non-Group": 297300,
+         "Medicaid": 942000,
+         "Medicare": 580900,
+         "Other Public": 43900,
+         "Uninsured": 277600,
+         "Total": 3948700
+      },
+      {
+         "Year": 2016,
+         "Employer": 1879400,
+         "Non-Group": 305700,
+         "Medicaid": 934000,
+         "Medicare": 608600,
+         "Other Public": 37800,
+         "Uninsured": 249000,
+         "Total": 4014500
+      },
+      {
+         "Year": 2017,
+         "Employer": 1912500,
+         "Non-Group": 290400,
+         "Medicaid": 929700,
+         "Medicare": 616800,
+         "Other Public": 38900,
+         "Uninsured": 274800,
+         "Total": 4063000
+      }
+   ],
+   "Pennsylvania": [
+      {
+         "Year": 2014,
+         "Employer": 6494600,
+         "Non-Group": 811900,
+         "Medicaid": 2071900,
+         "Medicare": 1837400,
+         "Other Public": 84800,
+         "Uninsured": 1067500,
+         "Total": 12368000
+      },
+      {
+         "Year": 2015,
+         "Employer": 6521800,
+         "Non-Group": 843700,
+         "Medicaid": 2288600,
+         "Medicare": 1878400,
+         "Other Public": 73300,
+         "Uninsured": 780600,
+         "Total": 12386400
+      },
+      {
+         "Year": 2016,
+         "Employer": 6368900,
+         "Non-Group": 832100,
+         "Medicaid": 2454500,
+         "Medicare": 1915900,
+         "Other Public": 70600,
+         "Uninsured": 722700,
+         "Total": 12364700
+      },
+      {
+         "Year": 2017,
+         "Employer": 6467000,
+         "Non-Group": 732600,
+         "Medicaid": 2444400,
+         "Medicare": 1987200,
+         "Other Public": 72600,
+         "Uninsured": 685400,
+         "Total": 12389100
+      }
+   ],
+   "Rhode Island": [
+      {
+         "Year": 2014,
+         "Employer": 511900,
+         "Non-Group": 57400,
+         "Medicaid": 227100,
+         "Medicare": 134400,
+         "Other Public": 10900,
+         "Uninsured": 71900,
+         "Total": 1013700
+      },
+      {
+         "Year": 2015,
+         "Employer": 527300,
+         "Non-Group": 55700,
+         "Medicaid": 231300,
+         "Medicare": 139400,
+         "Other Public": 8200,
+         "Uninsured": 52500,
+         "Total": 1014400
+      },
+      {
+         "Year": 2016,
+         "Employer": 527000,
+         "Non-Group": 70400,
+         "Medicaid": 222900,
+         "Medicare": 142800,
+         "Other Public": 8000,
+         "Uninsured": 42900,
+         "Total": 1013900
+      },
+      {
+         "Year": 2017,
+         "Employer": 520500,
+         "Non-Group": 60900,
+         "Medicaid": 239300,
+         "Medicare": 141200,
+         "Other Public": 8500,
+         "Uninsured": 45600,
+         "Total": 1015900
+      }
+   ],
+   "South Carolina": [
+      {
+         "Year": 2014,
+         "Employer": 2051600,
+         "Non-Group": 252600,
+         "Medicaid": 909200,
+         "Medicare": 701700,
+         "Other Public": 123800,
+         "Uninsured": 635500,
+         "Total": 4674300
+      },
+      {
+         "Year": 2015,
+         "Employer": 2141000,
+         "Non-Group": 316900,
+         "Medicaid": 926800,
+         "Medicare": 723000,
+         "Other Public": 112900,
+         "Uninsured": 513400,
+         "Total": 4734000
+      },
+      {
+         "Year": 2016,
+         "Employer": 2174800,
+         "Non-Group": 328800,
+         "Medicaid": 967000,
+         "Medicare": 742800,
+         "Other Public": 115700,
+         "Uninsured": 476200,
+         "Total": 4805300
+      },
+      {
+         "Year": 2017,
+         "Employer": 2205500,
+         "Non-Group": 297200,
+         "Medicaid": 922300,
+         "Medicare": 785300,
+         "Other Public": 112800,
+         "Uninsured": 541600,
+         "Total": 4864600
+      }
+   ],
+   "South Dakota": [
+      {
+         "Year": 2014,
+         "Employer": 412700,
+         "Non-Group": 84200,
+         "Medicaid": 117800,
+         "Medicare": 106700,
+         "Other Public": 18400,
+         "Uninsured": 81900,
+         "Total": 821600
+      },
+      {
+         "Year": 2015,
+         "Employer": 399000,
+         "Non-Group": 84900,
+         "Medicaid": 111100,
+         "Medicare": 117000,
+         "Other Public": 24200,
+         "Uninsured": 92900,
+         "Total": 829000
+      },
+      {
+         "Year": 2016,
+         "Employer": 440700,
+         "Non-Group": 71000,
+         "Medicaid": 118400,
+         "Medicare": 116900,
+         "Other Public": 19700,
+         "Uninsured": 69200,
+         "Total": 835800
+      },
+      {
+         "Year": 2017,
+         "Employer": 437400,
+         "Non-Group": 73700,
+         "Medicaid": 114600,
+         "Medicare": 120400,
+         "Other Public": 13600,
+         "Uninsured": 77300,
+         "Total": 837000
+      }
+   ],
+   "Tennessee": [
+      {
+         "Year": 2014,
+         "Employer": 2900900,
+         "Non-Group": 417100,
+         "Medicaid": 1292100,
+         "Medicare": 874500,
+         "Other Public": 130900,
+         "Uninsured": 759300,
+         "Total": 6374800
+      },
+      {
+         "Year": 2015,
+         "Employer": 3001900,
+         "Non-Group": 429600,
+         "Medicaid": 1291200,
+         "Medicare": 913400,
+         "Other Public": 127000,
+         "Uninsured": 659600,
+         "Total": 6422800
+      },
+      {
+         "Year": 2016,
+         "Employer": 3013400,
+         "Non-Group": 438100,
+         "Medicaid": 1379100,
+         "Medicare": 925600,
+         "Other Public": 119800,
+         "Uninsured": 591700,
+         "Total": 6467700
+      },
+      {
+         "Year": 2017,
+         "Employer": 3112200,
+         "Non-Group": 390000,
+         "Medicaid": 1342800,
+         "Medicare": 952600,
+         "Other Public": 125300,
+         "Uninsured": 615300,
+         "Total": 6538200
+      }
+   ],
+   "Texas": [
+      {
+         "Year": 2014,
+         "Employer": 12133900,
+         "Non-Group": 1547900,
+         "Medicaid": 4521300,
+         "Medicare": 2598900,
+         "Other Public": 464900,
+         "Uninsured": 5013100,
+         "Total": 26280100
+      },
+      {
+         "Year": 2015,
+         "Employer": 12552000,
+         "Non-Group": 1840300,
+         "Medicaid": 4690000,
+         "Medicare": 2670100,
+         "Other Public": 464700,
+         "Uninsured": 4560300,
+         "Total": 26777500
+      },
+      {
+         "Year": 2016,
+         "Employer": 12775700,
+         "Non-Group": 1879900,
+         "Medicaid": 4757100,
+         "Medicare": 2767100,
+         "Other Public": 476400,
+         "Uninsured": 4522200,
+         "Total": 27178300
+      },
+      {
+         "Year": 2017,
+         "Employer": 13126800,
+         "Non-Group": 1671800,
+         "Medicaid": 4701400,
+         "Medicare": 2840400,
+         "Other Public": 475000,
+         "Uninsured": 4805800,
+         "Total": 27621300
+      }
+   ],
+   "Utah": [
+      {
+         "Year": 2014,
+         "Employer": 1689500,
+         "Non-Group": 231400,
+         "Medicaid": 315300,
+         "Medicare": 262400,
+         "Other Public": 35200,
+         "Uninsured": 357900,
+         "Total": 2891800
+      },
+      {
+         "Year": 2015,
+         "Employer": 1718300,
+         "Non-Group": 283800,
+         "Medicaid": 327000,
+         "Medicare": 270100,
+         "Other Public": 31700,
+         "Uninsured": 314300,
+         "Total": 2945200
+      },
+      {
+         "Year": 2016,
+         "Employer": 1801900,
+         "Non-Group": 278200,
+         "Medicaid": 351500,
+         "Medicare": 278300,
+         "Other Public": 34300,
+         "Uninsured": 255200,
+         "Total": 2999300
+      },
+      {
+         "Year": 2017,
+         "Employer": 1831800,
+         "Non-Group": 273900,
+         "Medicaid": 340200,
+         "Medicare": 291400,
+         "Other Public": 35100,
+         "Uninsured": 275000,
+         "Total": 3047400
+      }
+   ],
+   "Vermont": [
+      {
+         "Year": 2014,
+         "Employer": 287700,
+         "Non-Group": 37500,
+         "Medicaid": 154000,
+         "Medicare": 88300,
+         "Other Public": 4500,
+         "Uninsured": 27900,
+         "Total": 600000
+      },
+      {
+         "Year": 2015,
+         "Employer": 294800,
+         "Non-Group": 35100,
+         "Medicaid": 156000,
+         "Medicare": 87800,
+         "Other Public": 4800,
+         "Uninsured": 23800,
+         "Total": 602400
+      },
+      {
+         "Year": 2016,
+         "Employer": 288400,
+         "Non-Group": 34900,
+         "Medicaid": 160200,
+         "Medicare": 89900,
+         "Other Public": 4600,
+         "Uninsured": 21600,
+         "Total": 599600
+      },
+      {
+         "Year": 2017,
+         "Employer": 278000,
+         "Non-Group": 29300,
+         "Medicaid": 168700,
+         "Medicare": 95000,
+         "Other Public": 4100,
+         "Uninsured": 25100,
+         "Total": 600200
+      }
+   ],
+   "Virginia": [
+      {
+         "Year": 2014,
+         "Employer": 4296200,
+         "Non-Group": 520800,
+         "Medicaid": 905500,
+         "Medicare": 1029400,
+         "Other Public": 382900,
+         "Uninsured": 871000,
+         "Total": 8006000
+      },
+      {
+         "Year": 2015,
+         "Employer": 4319700,
+         "Non-Group": 572700,
+         "Medicaid": 971100,
+         "Medicare": 1069600,
+         "Other Public": 366900,
+         "Uninsured": 751000,
+         "Total": 8051200
+      },
+      {
+         "Year": 2016,
+         "Employer": 4362200,
+         "Non-Group": 584700,
+         "Medicaid": 928900,
+         "Medicare": 1113800,
+         "Other Public": 376900,
+         "Uninsured": 714400,
+         "Total": 8080900
+      },
+      {
+         "Year": 2017,
+         "Employer": 4369800,
+         "Non-Group": 562900,
+         "Medicaid": 968500,
+         "Medicare": 1129100,
+         "Other Public": 390800,
+         "Uninsured": 719500,
+         "Total": 8140700
+      }
+   ],
+   "Washington": [
+      {
+         "Year": 2014,
+         "Employer": 3477300,
+         "Non-Group": 472700,
+         "Medicaid": 1270800,
+         "Medicare": 857500,
+         "Other Public": 176300,
+         "Uninsured": 633000,
+         "Total": 6887600
+      },
+      {
+         "Year": 2015,
+         "Employer": 3500300,
+         "Non-Group": 518300,
+         "Medicaid": 1480900,
+         "Medicare": 892900,
+         "Other Public": 152300,
+         "Uninsured": 458200,
+         "Total": 7002800
+      },
+      {
+         "Year": 2016,
+         "Employer": 3624400,
+         "Non-Group": 462200,
+         "Medicaid": 1515200,
+         "Medicare": 923900,
+         "Other Public": 174700,
+         "Uninsured": 423800,
+         "Total": 7124100
+      },
+      {
+         "Year": 2017,
+         "Employer": 3748100,
+         "Non-Group": 441100,
+         "Medicaid": 1505500,
+         "Medicare": 960500,
+         "Other Public": 144600,
+         "Uninsured": 440000,
+         "Total": 7239800
+      }
+   ],
+   "West Virginia": [
+      {
+         "Year": 2014,
+         "Employer": 810900,
+         "Non-Group": 45300,
+         "Medicaid": 439400,
+         "Medicare": 318200,
+         "Other Public": 18500,
+         "Uninsured": 159300,
+         "Total": 1791600
+      },
+      {
+         "Year": 2015,
+         "Employer": 812000,
+         "Non-Group": 68100,
+         "Medicaid": 476100,
+         "Medicare": 314700,
+         "Other Public": 22400,
+         "Uninsured": 98200,
+         "Total": 1791500
+      },
+      {
+         "Year": 2016,
+         "Employer": 773800,
+         "Non-Group": 64600,
+         "Medicaid": 511600,
+         "Medicare": 324100,
+         "Other Public": 19800,
+         "Uninsured": 87700,
+         "Total": 1781700
+      },
+      {
+         "Year": 2017,
+         "Employer": 755100,
+         "Non-Group": 65800,
+         "Medicaid": 493500,
+         "Medicare": 323600,
+         "Other Public": 22600,
+         "Uninsured": 101400,
+         "Total": 1762100
+      }
+   ],
+   "Wisconsin": [
+      {
+         "Year": 2014,
+         "Employer": 3080800,
+         "Non-Group": 336400,
+         "Medicaid": 955000,
+         "Medicare": 764000,
+         "Other Public": 50200,
+         "Uninsured": 417200,
+         "Total": 5603600
+      },
+      {
+         "Year": 2015,
+         "Employer": 3153600,
+         "Non-Group": 348600,
+         "Medicaid": 959000,
+         "Medicare": 793500,
+         "Other Public": 41800,
+         "Uninsured": 324300,
+         "Total": 5620900
+      },
+      {
+         "Year": 2016,
+         "Employer": 3140500,
+         "Non-Group": 350600,
+         "Medicaid": 984300,
+         "Medicare": 803100,
+         "Other Public": 52100,
+         "Uninsured": 292600,
+         "Total": 5623300
+      },
+      {
+         "Year": 2017,
+         "Employer": 3191800,
+         "Non-Group": 338400,
+         "Medicaid": 948600,
+         "Medicare": 834600,
+         "Other Public": 39900,
+         "Uninsured": 289700,
+         "Total": 5643000
+      }
+   ],
+   "Wyoming": [
+      {
+         "Year": 2014,
+         "Employer": 308000,
+         "Non-Group": 41000,
+         "Medicaid": 69300,
+         "Medicare": 65500,
+         "Other Public": 14000,
+         "Uninsured": 70600,
+         "Total": 568500
+      },
+      {
+         "Year": 2015,
+         "Employer": 309000,
+         "Non-Group": 44800,
+         "Medicaid": 69100,
+         "Medicare": 72900,
+         "Other Public": 13800,
+         "Uninsured": 59300,
+         "Total": 568900
+      },
+      {
+         "Year": 2016,
+         "Employer": 296700,
+         "Non-Group": 49400,
+         "Medicaid": 71500,
+         "Medicare": 74200,
+         "Other Public": 15100,
+         "Uninsured": 62500,
+         "Total": 569400
+      },
+      {
+         "Year": 2017,
+         "Employer": 293700,
+         "Non-Group": 37300,
+         "Medicaid": 71100,
+         "Medicare": 80100,
+         "Other Public": 12000,
+         "Uninsured": 69200,
+         "Total": 563300
+      }
+   ],
+   "Puerto Rico": [
+      {
+         "Year": 2014,
+         "Employer": 858000,
+         "Non-Group": 262800,
+         "Medicaid": 1735800,
+         "Medicare": 425800,
+         "Other Public": 17800,
+         "Uninsured": 213800,
+         "Total": 3514000
+      },
+      {
+         "Year": 2015,
+         "Employer": 869600,
+         "Non-Group": 252600,
+         "Medicaid": 1673300,
+         "Medicare": 434500,
+         "Other Public": 18100,
+         "Uninsured": 195100,
+         "Total": 3443200
+      },
+      {
+         "Year": 2016,
+         "Employer": 818300,
+         "Non-Group": 263100,
+         "Medicaid": 1627800,
+         "Medicare": 439500,
+         "Other Public": 15700,
+         "Uninsured": 214600,
+         "Total": 3379100
+      },
+      {
+         "Year": 2017,
+         "Employer": 772900,
+         "Non-Group": 283800,
+         "Medicaid": 1548900,
+         "Medicare": 454000,
+         "Other Public": 20600,
+         "Uninsured": 224700,
+         "Total": 3304800
+      }
+   ]
+}
